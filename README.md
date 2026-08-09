@@ -24,13 +24,12 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student
+- 🎓 B.Tech Computer Science & Engineering student, RGPV(2023- 2027)
 - 💻 Interested in Software Engineering, Full-Stack Development and AI
-- 🤖 Learning and building projects in Machine Learning, NLP and Deep Learning
 - 🌐 Building responsive web applications and practical software projects
 - 🧠 Practicing Data Structures & Algorithms for technical interviews
 - 📚 Continuously improving problem-solving and development skills
-- 💼 Open to Software Development, AI/ML and internship opportunities
+- 💼 Open to Software Development internship opportunities
 
 ---
 
